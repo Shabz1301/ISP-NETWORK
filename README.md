@@ -9,6 +9,6 @@ Read the full specification of the project:ISP REPORT
 ## Solution
 
 - CPT project: [ISP.pkt]
-- Network topology: [ISP-topology.png]
+- Network topology: [ISP-Topology.png]
 - IP address distribution: [ISP-addresses.txt]
 - Configuration of network devices: [ISP-config.txt]
